@@ -2,6 +2,6 @@ Equipo
 Mary
 Diego(responsable del repositorio)
 Dani
-Ceci
+Ceci Butanda
 
 https://github.com/Imano14/Equipo-4.git
